@@ -1,0 +1,18 @@
+{
+	"project": {
+		"name": "8000ETestJar",
+		"slot": 2,
+		"description": "8000E Test Jar Template. ",
+		"platform": "V5",
+		"creationDate": "Thu, 11 Jun 2026 07:18:35 GMT",
+		"language": "cpp",
+		"sdkVersion": "V5_20240802_15_00_00",
+		"cpp": {
+			"includePath": []
+		}
+	},
+	"extension": {
+		"version": "0.8.2026020401",
+		"json": 1
+	}
+}
